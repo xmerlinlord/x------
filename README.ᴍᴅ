@@ -1,0 +1,16 @@
+# MERLIN LORD MD 👑
+
+A Telegram bot built with Node.js and Telegraf.
+
+## Setup
+
+1. Install dependencies:
+   npm install
+
+2. Create a `.env` file.
+
+3. Add your Telegram bot token:
+   BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN
+
+4. Start the bot:
+   npm start
